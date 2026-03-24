@@ -1,4 +1,4 @@
-# Hey, I'm drain1ly 👋
+# Hey, I'm drain1ly
 
 **Computer Science Student (4th Year) | Full-Stack Developer | Game Systems Enthusiast**
 
@@ -6,11 +6,11 @@
 
 ## About Me
 
-I'm a senior CS student with hands-on experience building web applications, game tools, and interactive experiences. I enjoy working across the full stack — from crafting clean UIs to building backend APIs — and I'm always looking for interesting problems to solve.
+I'm a senior CS student with hands-on experience building web applications, game tools, and interactive experiences. I enjoy working across the full stack  from crafting clean UIs to building backend APIs. I'm always looking for interesting problems to solve.
 
 ---
 
-## 🛠️ Tech Stack
+## Skills
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -30,9 +30,9 @@ I'm a senior CS student with hands-on experience building web applications, game
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🗃️ M.I.D. Database — Monster of the Week Archive
+### M.I.D. Database: Monster of the Week Archive
 > A collaborative interactive archive web app built with a friend for our Monster of the Week tabletop campaign.
 
 - Password-protected retro-terminal UI with animated access sequences
@@ -42,10 +42,6 @@ I'm a senior CS student with hands-on experience building web applications, game
 
 ---
 
-## 📫 Get In Touch
-
-Feel free to reach out if you want to collaborate or just talk tech!
-
----
+## Get In Touch
 
 *4th year Computer Science student | Open to internship & new grad opportunities*
